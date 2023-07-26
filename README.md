@@ -11,13 +11,18 @@ This is a landing page for a fictional ice cream shop using animations and respo
 
 ## Page Screenshot
 
-![App Screenshot](https://i.imgur.com/0Kzdvwf.png)
+![App Screenshot](https://i.imgur.com/fzSgkhE.png)
 
 
 
 
 
 ## Demo
+
+
+
+https://github.com/lucasmichels/exp_space-cream/assets/39132280/26f418f5-a0de-49a3-91a4-f5f56b849d04
+
 
 
 
